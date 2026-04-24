@@ -84,49 +84,38 @@
             height: 100%;
         }
 
-        .star {
+        #sky {
+            position: absolute;
+            inset: 0;
+            overflow: hidden;
+        }
+
+        #sky .star {
+            opacity: 0;
             position: absolute;
             background: white;
-            border-radius: 50%;
-            animation: twinkle 3s ease-in-out infinite;
+            box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.9);
+            border-radius: 100%;
+            left: var(--cx);
+            top: var(--cy);
+            width: var(--size);
+            height: var(--size);
+            animation:
+                starMove var(--t) linear infinite,
+                starFade var(--tf) linear infinite;
+            animation-delay: var(--delay), var(--delay);
+            will-change: transform, opacity;
         }
 
-        @keyframes twinkle {
-            0%, 100% { opacity: 0.3; transform: scale(1); }
-            50% { opacity: 1; transform: scale(1.2); }
+        @keyframes starMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(var(--tx), var(--ty)); }
         }
 
-        .shooting-star {
-            position: absolute;
-            width: 2px;
-            height: 2px;
-            background: white;
-            border-radius: 50%;
-            box-shadow: 0 0 10px 2px rgba(255,255,255,0.8);
-            animation: shoot 3s linear infinite;
-        }
-
-        @keyframes shoot {
-            0% {
-                transform: translateX(0) translateY(0);
-                opacity: 1;
-            }
-            100% {
-                transform: translateX(-300px) translateY(300px);
-                opacity: 0;
-            }
-        }
-
-        .star-layer-1 {
-            animation-duration: 2s;
-        }
-
-        .star-layer-2 {
-            animation-duration: 3.5s;
-        }
-
-        .star-layer-3 {
-            animation-duration: 5s;
+        @keyframes starFade {
+            0% { opacity: 0; }
+            10% { opacity: 1; }
+            100% { opacity: 1; }
         }
 
         .navbar {
@@ -540,10 +529,6 @@
                 filter: blur(60px);
                 animation-duration: 40s !important;
             }
-
-            .shooting-star {
-                display: none;
-            }
         }
 
         @media (prefers-reduced-motion: reduce) {
@@ -553,8 +538,7 @@
             }
             
             .nebula,
-            .star,
-            .shooting-star {
+            #sky .star {
                 animation: none !important;
             }
         }
@@ -596,7 +580,7 @@
         <div class="nebula nebula-1"></div>
         <div class="nebula nebula-2"></div>
         <div class="nebula nebula-3"></div>
-        <div class="stars" id="stars"></div>
+        <div id="sky"></div>
             </div>
 
     <nav class="navbar">
@@ -637,7 +621,7 @@
                     Mobile Applications
                     <span class="section-badge">
                         <i class="fas fa-mobile-alt"></i>
-                        <span>3 Apps</span>
+                        <span>4 Apps</span>
                     </span>
                 </h2>
                 <p class="section-subtitle">Innovative solutions for your daily needs</p>
@@ -705,6 +689,28 @@
                                 </a>
                             </div>
                         </div>
+
+                        <div class="app-card">
+                            <div class="app-header">
+                                <div class="app-icon">
+                                    <img src="assets/stampit.png" alt="Stamp It">
+                                </div>
+                        <div class="app-info">
+                            <h3 class="app-name">Stamp It</h3>
+                            <span class="app-category">Photo & Video</span>
+                                </div>
+                            </div>
+                    <div class="app-stores">
+                        <a href="https://apps.apple.com/us/app/stamp-it-photo-stamp-maker/id6761691651" class="store-btn app-store-btn" target="_blank">
+                            <i class="fab fa-apple"></i>
+                            <span>App Store</span>
+                        </a>
+                        <a href="https://play.google.com/store/apps/details?id=com.kolapps.stampit" class="store-btn play-store-btn" target="_blank">
+                            <i class="fab fa-google-play"></i>
+                            <span>Google Play</span>
+                        </a>
+                        </div>
+                    </div>
 
                     </div>
                 </div>
@@ -879,7 +885,7 @@
     </section>
 
     <footer class="footer">
-        <p class="footer-text">&copy; 2025 Muhammed Güven. All rights reserved.</p>
+        <p class="footer-text">&copy; 2026 Muhammed Güven. All rights reserved.</p>
     </footer>
 
     <div class="scroll-top" id="scrollTop">
@@ -904,40 +910,47 @@
             });
         });
 
-        const starsContainer = document.getElementById('stars');
-        const starCount = 200;
+        let sky, center;
 
-        for (let i = 0; i < starCount; i++) {
-            const star = document.createElement('div');
-            star.className = 'star';
-            
-            const size = Math.random() * 3;
-            star.style.width = size + 'px';
-            star.style.height = size + 'px';
-            
-            star.style.left = Math.random() * 100 + '%';
-            star.style.top = Math.random() * 100 + '%';
-            
-            const layer = Math.floor(Math.random() * 3) + 1;
-            star.classList.add(`star-layer-${layer}`);
-            
-            star.style.animationDelay = Math.random() * 3 + 's';
-            
-            starsContainer.appendChild(star);
+        function dot(i) {
+            const el = document.createElement('span');
+            const size = (Math.round(Math.random()) + 1) + 'px';
+            const t = (Math.floor(Math.random() * 40000) + 5000) + 'ms';
+            const tf = (Math.floor(Math.random() * 8000) + 2000) + 'ms';
+            const delay = '-' + (Math.floor(Math.random() * 30000) + 1000) + 'ms';
+            const angle = (i / 360) * Math.PI * 2;
+            const radiusVW = 90;
+            const radiusVH = 90;
+            const tx = (Math.cos(angle) * radiusVW).toFixed(3) + 'vw';
+            const ty = (Math.sin(angle) * radiusVH).toFixed(3) + 'vh';
+
+            el.classList.add('star');
+            el.style.setProperty('--cx', center.x + 'px');
+            el.style.setProperty('--cy', center.y + 'px');
+            el.style.setProperty('--size', size);
+            el.style.setProperty('--t', t);
+            el.style.setProperty('--tf', tf);
+            el.style.setProperty('--delay', delay);
+            el.style.setProperty('--tx', tx);
+            el.style.setProperty('--ty', ty);
+            return el;
         }
 
-        for (let i = 0; i < 5; i++) {
-            const shootingStar = document.createElement('div');
-            shootingStar.className = 'shooting-star';
-            
-            shootingStar.style.left = Math.random() * 100 + '%';
-            shootingStar.style.top = Math.random() * 50 + '%';
-            
-            shootingStar.style.animationDelay = Math.random() * 10 + 's';
-            shootingStar.style.animationDuration = (Math.random() * 2 + 2) + 's';
-            
-            starsContainer.appendChild(shootingStar);
+        function clearSky() {
+            sky.innerHTML = '';
         }
+
+        function initSky() {
+            sky = document.querySelector('#sky');
+            if (!sky) return;
+            const rect = sky.getBoundingClientRect();
+            center = { x: rect.width / 2, y: rect.height / 2 };
+            clearSky();
+            for (let i = 0; i < 360; i++) sky.appendChild(dot(i));
+        }
+
+        window.addEventListener('load', initSky);
+        window.addEventListener('resize', initSky);
     </script>
 </body>
 </html>
