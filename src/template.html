@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f7f8f5">
+  <meta name="description" content="Explore Kolapps apps by Muhammed Güven for iPhone, Android, Apple Watch and Wear OS. Screenshots, store ratings, and everything you need to find your next app.">
+  <meta property="og:title" content="Kolapps — Independent apps for everyday possibilities">
+  <meta property="og:description" content="A collection of apps for your phone and your wrist. Explore the screenshots and find them on the App Store and Google Play.">
+  <meta property="og:type" content="website">
+  <title>Kolapps — Apps for everyday possibilities</title>
+  <link rel="icon" href="assets/kolapps-logo.png" type="image/png">
+  <script>try{var t=localStorage.getItem('kolapps-theme');document.documentElement.dataset.theme=t==='light'||t==='dark'?t:matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}catch(e){document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}</script>
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#apps">Skip to apps</a>
+  <header class="site-header"><div class="header-inner">
+    <a class="wordmark" href="#" aria-label="Kolapps home"><img class="brand-logo" src="assets/kolapps-logo.png" alt="" width="44" height="44"><span>Kolapps<span class="brand-dot">.</span></span></a>
+    <nav aria-label="Main navigation"><a href="#apps">The apps</a><a href="#about">About</a><a class="contact-link" href="#contact">Get in touch {{ARROW}}</a><button class="theme-toggle icon-button" id="theme-toggle" aria-label="Switch color theme" title="Switch color theme">{{SUN}}</button></nav>
+  </div></header>
+  <main>
+    <section class="hero container" aria-labelledby="hero-title">
+      <div class="hero-copy"><p class="eyebrow"><span class="status-dot"></span> INDEPENDENT APPS · BY MUHAMMED GÜVEN</p><h1 id="hero-title">Small apps.<br><span>More <em>possibilities.</em></span></h1></div>
+      <div class="hero-note"><p>A collection of apps for your phone<br class="desktop-break"> and your wrist. Made to be useful,<br class="desktop-break"> playful, and a little different.</p><div class="platform-line"><span>{{PHONE}} iOS & Android</span><span>{{WATCH}} watchOS & Wear OS</span></div><a class="text-link" href="#apps">Find your next app <span>↓</span></a></div>
+    </section>
+    <section id="apps" class="collection container" aria-labelledby="collection-title">
+      <div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2 id="collection-title">Made to be explored<span class="period">.</span></h2></div><span class="collection-count">{{APP_COUNT}} apps. One curious developer.</span></div>
+      <div class="catalog-toolbar">
+        <div class="filter-tabs" role="group" aria-label="App collection"><button class="filter-tab active" data-filter="all" aria-pressed="true">All apps <span>{{APP_COUNT}}</span></button><button class="filter-tab" data-filter="mobile" aria-pressed="false">{{PHONE}} Mobile <span>{{MOBILE_COUNT}}</span></button><button class="filter-tab" data-filter="watch" aria-pressed="false">{{WATCH}} Watch <span>{{WATCH_COUNT}}</span></button></div>
+        <div class="catalog-controls"><label class="search-field">{{SEARCH}}<span class="sr-only">Search apps</span><input type="search" id="app-search" placeholder="Find an app…" autocomplete="off"><kbd>/</kbd></label><label class="platform-select"><span class="sr-only">Filter by store</span><select id="store-filter"><option value="all">All stores</option><option value="apple">App Store</option><option value="google">Google Play</option></select></label></div>
+      </div>
+      <p class="sr-only" id="results-status" role="status" aria-live="polite">{{APP_COUNT}} apps</p>
+      <div class="apps-grid" id="apps-grid">{{APP_CARDS}}</div>
+      <div id="empty-state" class="empty-state" hidden>{{SEARCH}}<h3>No apps found.</h3><p>Try a different name or clear your filters.</p><button class="button" id="reset-filters">Show all apps</button></div>
+      <p class="collection-footnote">Ratings are shown per store and market. Install counts are from Google Play.<span>Store details checked {{UPDATED_DATE}}.</span></p>
+    </section>
+    <section id="about" class="about-section container" aria-labelledby="about-title"><div class="about-label"><img class="brand-logo large" src="assets/kolapps-logo.png" alt="Kolapps" width="64" height="64"><p class="eyebrow">BEHIND THE APPS</p></div><div class="about-copy"><h2 id="about-title">Built with curiosity.<br>Made for your everyday.</h2><p>I’m Muhammed Güven, an independent developer creating apps for phones and watches. This is a home for the things I make — from useful little tools to playful experiences on your wrist.</p><a class="text-link" href="#contact">Have something in mind? Let’s talk {{ARROW}}</a></div></section>
+    <section id="contact" class="contact-section container" aria-labelledby="contact-title">
+      <div class="contact-copy"><p class="eyebrow">GET IN TOUCH</p><h2 id="contact-title">Something in mind?<br><em>Let’s talk.</em></h2><p>A question about an app, a new idea, or just a hello. Leave a message and I’ll get back to you.</p><span class="contact-signature">Muhammed Güven <span>Founder & developer, Kolapps</span></span></div>
+      <form class="contact-form" action="https://formsubmit.co/mguvenn96@gmail.com" method="POST">
+        <input type="hidden" name="_subject" value="New message from Kolapps website">
+        <input type="hidden" name="_template" value="table">
+        <div class="form-row"><label>Your name<input name="name" autocomplete="name" maxlength="100" placeholder="Alex Morgan" required></label><label>Email address<input type="email" name="email" autocomplete="email" maxlength="254" placeholder="you@example.com" required></label></div>
+        <label>What’s it about?<select name="topic"><option>Say hello</option><option>App support</option><option>Feedback & suggestions</option><option>Work together</option></select></label>
+        <label>Your message<textarea name="message" rows="5" minlength="10" maxlength="5000" placeholder="Tell me a little about it…" required></textarea></label>
+        <div class="form-bottom"><p>Your message and email are processed by <a href="https://formsubmit.co/privacy.pdf" target="_blank" rel="noopener noreferrer">FormSubmit</a> to deliver your message. Please don’t include sensitive information.</p><button class="button" type="submit">Send message {{ARROW}}</button></div>
+      </form>
+    </section>
+  </main>
+  <footer class="site-footer container"><span>© {{YEAR}} Kolapps · Muhammed Güven</span><span class="footer-note">Small screens. Plenty of possibilities.</span><div><a href="https://github.com/Muhammedguven" target="_blank" rel="noopener noreferrer">GitHub {{ARROW}}</a><a href="https://www.linkedin.com/in/muhammedguven/" target="_blank" rel="noopener noreferrer">LinkedIn {{ARROW}}</a></div></footer>
+  <dialog id="app-dialog" class="app-dialog" aria-labelledby="detail-title"><div id="app-detail"></div></dialog>
+  <dialog id="image-dialog" class="image-dialog" aria-label="Screenshot preview"><button class="icon-button image-close" data-close-image aria-label="Close screenshot">{{CLOSE}}</button><img id="large-screenshot" alt=""><p id="screenshot-caption"></p></dialog>
+  <noscript><style>.catalog-toolbar,.cover-action{display:none}</style><p class="noscript-note">App store links work without JavaScript. Enable JavaScript to explore screenshots, reviews and filters.</p></noscript>
+  <script src="assets/catalog.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>

@@ -1,2 +1,25 @@
+# Local tools and generated output
 .DS_Store
 .idea/
+.vscode/
+node_modules/
+dist/
+coverage/
+output/
+tmp/
+*.log
+# Research originals are not part of the public repository or deployment
+research/
+# Credentials and signing material must never enter this public repository
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+*.p8
+*.p12
+*.mobileprovision
+# Interrupted sync writes
+data/*.tmp
+assets/store/**/*.tmp

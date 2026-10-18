@@ -1,0 +1,67 @@
+name: Refresh stores and deploy portfolio
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Refresh public store data before building
+        type: boolean
+        default: true
+  schedule:
+    # 06:17 and 18:17 in Türkiye. Off the busy top of the hour.
+    - cron: '17 3,15 * * *'
+
+concurrency:
+  group: portfolio-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Refresh public metadata, reviews and changed images
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: npm run sync
+      - name: Test, build and validate site
+        run: npm run check
+      - name: Keep a durable last-successful snapshot
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalog.json assets/store assets/catalog.js assets/site.css assets/site.js index.html
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh public store data [skip ci]'
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
