@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T09:01:33.840Z",
+  "generatedAt": "2026-10-19T20:37:18.875Z",
   "apps": [
     {
       "slug": "vocards",
@@ -30,9 +30,9 @@
           "updated": "2026-07-26T18:45:36Z",
           "released": "2026-01-07",
           "releaseNotes": "Introducing Match Mode!\n\nLearn faster by matching words with their meanings through our brand-new interactive game mode.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -122,9 +122,9 @@
           "updated": "2026-07-25T14:52:42.000Z",
           "released": "2025-12-29",
           "releaseNotes": "Introducing Match Mode! 🎉\n\nLearn faster by matching words with their meanings through our brand-new interactive game mode.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -201,9 +201,131 @@
           "updated": "2026-10-03T16:07:39Z",
           "released": "2024-11-20",
           "releaseNotes": "- Tüm sınavlar için puan ve tahmini sıralama hesaplama özelliği eklendi.\n- Artık daha önce kaydettiğiniz sınavlar için de puan ve sıralama hesaplaması yapabilirsiniz.\n- Performans iyileştirmeleri ve hata düzeltmeleri.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
-          "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
+          "reviews": [
+            {
+              "id": "13432494695",
+              "author": "lux017",
+              "title": "beklentinin altında",
+              "text": "özellikle öğrencilere yönelik bir uygulama neden sağlaması gereken hizmet için satın alım içeriyor? hayal kırıklığı",
+              "rating": 2,
+              "date": "2025-11-23T09:33:27-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "13076423635",
+              "author": "Av.kıymet",
+              "title": "Muazzam devamı gelsin...",
+              "text": "Süper bir takip uygulaması olmuş ellerine sağlık. İhtiyaçtan doğmuş belli :) Yalnız bu istatistiklerin pdf şeklinde dışa aktarımı olursa muhteşem olacaktır. \nBir de günlük soru takibi uygulaması bekliyorum senden...yaparsan fevkalade our. :) günlük şu kadar soru, haftalık şu kadar, aylık şu kadar soru doğrusu yanlışı bu kadar dese yeter ;)  umudum var kardeş bekliyorum :)",
+              "rating": 5,
+              "date": "2025-08-29T17:28:12-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "12025934395",
+              "author": "efedmr17",
+              "title": "Gayet başarılı",
+              "text": "deneme hedeflerınızı ve netlerınızı kolayca gırebiliyorsunuz",
+              "rating": 5,
+              "date": "2024-12-04T12:44:55-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "12009676355",
+              "author": "Ayşenur Bayraktar",
+              "title": "Kullanışlı",
+              "text": "Yaptığım denemeleri takip etmek istiyordum. Birkaç uygulama indirmiştim ama en çok bu işime yaradı. Teşekkürler",
+              "rating": 5,
+              "date": "2024-11-30T07:55:43-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "12001404805",
+              "author": "pelingul",
+              "title": "Oldukça verimli",
+              "text": "Böyle bir uygulamaya ihtiyacım vardı arayüzünü çok beğendim",
+              "rating": 5,
+              "date": "2024-11-28T05:43:35-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11986257908",
+              "author": "ozaanj",
+              "title": "5 PUAN DEĞİL 5 BİN PUANLIK UYGULAMA.",
+              "text": "Deneme için hedeflerimi belirledim haftaya hedeflerime ulaşmayı planlıyorum inşallah olur uygulama çok iyi hocam elinize sağlık,kolay gelsin.",
+              "rating": 5,
+              "date": "2024-11-24T04:04:23-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11979570373",
+              "author": "danielcimbom",
+              "title": "Harika ve Faydalı 🤩🤩🤩",
+              "text": "“Deneme sınavlarınızı düzenli bir şekilde takip etmek ve başarı grafiğinizi gözlemlemek için mükemmel bir uygulama! Kullanıcı dostu arayüzü sayesinde sınav sonuçlarınızı kolayca kaydedebilir, analiz edebilir ve gelişiminizi adım adım izleyebilirsiniz. Hem öğrenciler hem de veliler için büyük bir kolaylık sağlıyor. Başarıya giden yolda disiplinli bir rehber arayanlara şiddetle tavsiye ederim!”",
+              "rating": 5,
+              "date": "2024-11-22T10:17:57-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11975525578",
+              "author": "Meorbag",
+              "title": "Harika uygulama",
+              "text": "Çok iyi uygulama, netlerimi takip etmeme ve arttırmama çok yardımcı oldu",
+              "rating": 5,
+              "date": "2024-11-21T08:36:24-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11975348436",
+              "author": "Biri yardım etsin bana",
+              "title": "Kullanışlı",
+              "text": "Harika , umarım yakında sorular eklenir tadından yenmez.",
+              "rating": 5,
+              "date": "2024-11-21T07:40:48-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11975312587",
+              "author": "SinyorBoss",
+              "title": "Başarılı",
+              "text": "Kendinize çalışma takvimi oluşturmak için ideal bi uygulama",
+              "rating": 5,
+              "date": "2024-11-21T07:29:27-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11974175138",
+              "author": "YigitK06",
+              "title": "Mükemmel!",
+              "text": "KPSS’ye hazırlanıyorum, bu uygulama en büyük yardımcılarımdan biri oldu. Geliştiricinin ellerine sağlık!",
+              "rating": 5,
+              "date": "2024-11-21T00:44:08-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            }
+          ],
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -293,7 +415,7 @@
           "updated": "2026-10-02T21:35:40.000Z",
           "released": "2024-11-17",
           "releaseNotes": "🎉 Tüm sınavlar için puan ve tahmini sıralama hesaplama özelliği eklendi.\n\n📚 Artık daha önce kaydettiğiniz sınavlar için de puan ve sıralama hesaplaması yapabilirsiniz.\n\n🚀 Performans iyileştirmeleri ve hata düzeltmeleri.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "7eb84b3e-e242-4bff-a572-37300f500045",
@@ -824,7 +946,7 @@
               "language": "tr"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -941,9 +1063,9 @@
           "updated": "2026-08-01T05:16:22Z",
           "released": "2026-04-08",
           "releaseNotes": "- Added new stamp styles.\n- Introduced stamp filters.\n- Added the ability to set a background image from the gallery.\nImplemented performance improvements.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1027,7 +1149,7 @@
           "updated": "2026-07-25T14:59:00.000Z",
           "released": "2026-03-29",
           "releaseNotes": "- Added new stamp styles.\n- Introduced stamp filters.\n- Added the ability to set a background image from the gallery.\nImplemented performance improvements.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "731c5eff-dc76-4606-8d92-be9cb47a0e28",
@@ -1052,7 +1174,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -1151,9 +1273,9 @@
           "updated": "2026-10-09T08:27:35Z",
           "released": "2026-10-09",
           "releaseNotes": "",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1249,9 +1371,9 @@
           "updated": "2026-10-02T22:12:14.000Z",
           "released": "2026-09-27",
           "releaseNotes": "Sketch Watch turns your Wear OS watch into a simple drawing and note-taking canvas.\n\n• Draw and sketch directly on your watch  \n• Choose different colors and brush sizes  \n• Use the eraser and undo tools  \n• Automatically save your sketches  \n• View, rename, and delete saved sketches  \n• Export and share your creations\n\nStart sketching right from your wrist!",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -1350,9 +1472,54 @@
           "updated": "2026-07-16T23:22:19Z",
           "released": "2025-02-12",
           "releaseNotes": "Fix some bugs and improve performance",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
-          "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
+          "reviews": [
+            {
+              "id": "13710936436",
+              "author": "Justin Adkins",
+              "title": "Do not buy this app (scam) (updated!)",
+              "text": "You pay $6.99 and it’s actually made with good quality and you think, oh ok I guess that’s why. Except the fact they don’t tell you that alien force, omniverse, and villains are behind a pay wall. Alien force is $2.99, villains are $4.99. Dude, we paid $6 for the freaking app, don’t be greedy. I wanted to say that for the aliens I did use, it was great. Except the entire, after one alien, you have to restart the entire thing. Really should just be able to change into aliens non stop. If you actually do care about your product and I’m not sure because I’ve seen you comment on what little reviews are here, I’d take down the pay walls and fix the issue of having to restart it after every alien. If you absolutely and I mean absolutely! Have to need more money from us, try some sort of alien dlc, like aliens from different universes Ben can turn into like goku or Superman, make your app stand out, but I would only suggest making that dlc 99 cents. (Update: they responded that they are working to fix the restart mechanic so that’s a great start. However for the other items their comment was very around the bush when it came to the micro transactions which gives me little hope of them making that cheaper or completely removing them. I suggest people stand clear for how the app stands right now this app is just a $7 button and there are other apps that do it better, cheaper, or even for free.)",
+              "rating": 1,
+              "date": "2026-02-03T22:37:21-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            },
+            {
+              "id": "13003166922",
+              "author": "Moises Germain",
+              "title": "Version of Apple Watch",
+              "text": "Can u make it where the series 3 gets it I bought it I didn’t know I couldn’t use it",
+              "rating": 5,
+              "date": "2025-08-11T07:47:16-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            },
+            {
+              "id": "12819214151",
+              "author": "Neillerr",
+              "title": "Kid loves this",
+              "text": "He does wish that it would go back to green screen after transforming back from red screen. Instead of having to hit start on menu page each time.",
+              "rating": 4,
+              "date": "2025-06-26T05:19:35-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            },
+            {
+              "id": "12586026878",
+              "author": "Dillan43",
+              "title": "Would not recommend",
+              "text": "I wish it was more accurate to the show and I also don’t like that you have to swipe the screen instead of using the crown if it was more accurate to the show and had modes like master control and cheaper it would be great",
+              "rating": 2,
+              "date": "2025-04-25T16:05:10-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            }
+          ],
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1454,7 +1621,7 @@
           "updated": "2026-07-25T14:23:32.000Z",
           "released": "2022-12-31",
           "releaseNotes": "NEW FEATURES:\n\nSECRET PATTERN SYSTEM\n- Hidden easter egg activation: Long press any hero → Pattern mode activated\n- Enter the secret code: Left-Left-Right-Right-Left-Left using crown rotation or swipe\n- Successfully complete pattern → Auto hero selection with epic transformation\n\nREAL LIFE ALIENS\n- Real life aliens transformations with AI",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "97bdc788-ca01-403d-b789-2fd45cad8728",
@@ -1501,7 +1668,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -1612,9 +1779,9 @@
           "updated": "2026-08-22T03:51:26Z",
           "released": "2025-06-18",
           "releaseNotes": "Performance improvements",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1698,9 +1865,9 @@
           "updated": "2026-07-25T15:21:08.000Z",
           "released": "2025-06-11",
           "releaseNotes": "NEW FEATURES:\n- Real Super heroes feature enabled!\n- Hidden easter egg activation: Long press any hero → Pattern mode activated\n- Enter the secret code: Left-Left-Right-Right-Left-Left-Right-Right using crown rotation or swipe\n- Successfully complete pattern → Auto hero selection with epic transformation",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -1817,9 +1984,9 @@
           "updated": "2026-07-31T21:34:55Z",
           "released": "2025-06-04",
           "releaseNotes": "Performance improvements",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1927,7 +2094,7 @@
           "updated": "2026-07-25T15:11:24.000Z",
           "released": "2025-05-01",
           "releaseNotes": "NEW FEATURES:\n- Real Super heroes feature enabled!\n- Hidden easter egg activation: Long press any hero → Pattern mode activated\n- Enter the secret code: Left-Left-Right-Right-Left-Left-Right-Right using crown rotation or swipe\n- Successfully complete pattern → Auto hero selection with epic transformation",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "bc62736d-3ad8-4b29-bf86-d342431265f8",
@@ -1941,7 +2108,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -2054,162 +2221,102 @@
           "country": "us",
           "language": "en",
           "url": "https://apps.apple.com/us/app/watchx-posts-for-wrist/id6770914400",
-          "title": "WatchX - Posts for Wrist",
+          "title": "Social Feed For Watch - WatchX",
           "description": "WatchX is a lightweight X (Twitter) client built specifically for watch. Read tweets, follow public timelines, track your favorite X accounts, and stay updated with breaking news directly from your wrist without taking out your phone.\n\nWhether you are commuting, working, exercising, traveling, or simply away from your phone, WatchX makes it easy to stay connected to X (formerly Twitter) from your watch. Follow public profiles, read tweets, check timelines, and keep up with the latest updates from creators, journalists, developers, sports teams, news outlets, and more.\n\nWATCH X (TWITTER) ON YOUR WATCH\n\nWatchX brings a fast, clean, and optimized Twitter reading experience to Apple Watch devices. Designed specifically for apple watch, it provides a smooth and responsive interface that makes reading tweets and browsing timelines effortless on your wrist.\n\nWHY CHOOSE WATCHX?\n\nUnlike traditional social media apps that are designed for phones, WatchX is built from the ground up for watch. It focuses on speed, simplicity, readability, and battery efficiency while giving you quick access to the public X (Twitter) content that matters most.\n\nREAD TWEETS DIRECTLY FROM YOUR WRIST\n\nStay connected to your favorite Twitter and X accounts without constantly checking your phone.\n\n• Read tweets from public accounts\n• Follow custom timelines\n• Track multiple users and profiles\n• View the latest posts and updates\n• Stay informed about breaking news and trending topics\n\nNO LOGIN REQUIRED\n\nWatchX is designed with simplicity and privacy in mind.\n\n• No Twitter password required\n• No X account login required\n• No complicated authentication process\n• Quick and secure setup\n\nSimply enter the public usernames you want to follow and start reading updates on your watch.\n\nFAST SETUP\n\nGetting started takes less than a minute:\n\n1. Open WatchX on your  iPhone\n2. Enter your public username\n3. Add the X (Twitter) accounts you want to follow\n4. Sync with your watch\n5. Enjoy your personalized Twitter feed on your wrist\n\nFEATURES\n\n• X (Twitter) client optimized for watch\n• Read tweets directly on your wrist\n• Follow public X and Twitter accounts\n• Personalized timeline experience\n• Smooth scrolling interface\n• Fast content synchronization\n• Lightweight and battery friendly\n• Clean watch-first design\n• Optimized for round and square watch displays\n• Quick access to news, technology, sports, crypto, finance, entertainment, and creator updates\n\nPERFECT FOR\n\n• X (Twitter) users\n• News readers\n• Journalists\n• Developers\n• Tech enthusiasts\n• Crypto followers\n• Sports fans\n• Content creators\n• Apple watch owners\n\nDESIGNED FOR APPLE WATCH\n\nWatchX works seamlessly with modern watch and provides a comfortable reading experience on smaller screens. Every part of the interface is optimized for apple watch, making it easy to browse tweets and timelines with minimal interaction.\n\nSTAY INFORMED ANYWHERE\n\nUse WatchX to monitor breaking news, follow your favorite creators, keep up with technology updates, track sports discussions, read developer posts, and stay connected to the conversations happening on X (Twitter).\n\nIf you have been searching for a Twitter app for watch, an X client for watch, a tweet reader for watch, or a simple way to follow public X accounts on your watch, WatchX is built for you.\n\nDownload WatchX today and experience X (Twitter) on your wrist\n\nDISCLAIMER\n\nWatchX is an independent third-party application for watch.\n\nWatchX is not affiliated with, endorsed by, sponsored by, authorized by, or associated with X Corp., Twitter, or any of their affiliates. X, Twitter, and all related trademarks are the property of their respective owners.\n\nPrivacy Policy: https://muhammedguven.github.io/PrivacyPolicy/ios/watchx/\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
           "summary": "",
           "rating": null,
           "ratingCount": 0,
           "installs": null,
-          "version": "1.0",
-          "updated": "2026-09-18T15:19:50Z",
+          "version": "1.1",
+          "updated": "2026-10-19T10:25:12Z",
           "released": "2026-09-18",
-          "releaseNotes": "",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "releaseNotes": "Fix some bugs and improve performance.",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/a9/7a/37a97ae8-6e9a-bd64-db2f-b6e6ed1f357d/1.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-48025c18c03e1922.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/e4/8d/35e48d58-f141-c645-0b41-0af97f391961/1.png/736x1600bb.jpg",
+              "path": "assets/store/watchx/screenshot-deec7072f298212f.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/2d/16/9b2d1657-53c7-4c5e-1f31-9657c3a6d0e2/2.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-b7c46770ad83a411.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/30/6c/dc306ce1-d6b6-66ad-6de1-e4086519a65a/2.png/736x1600bb.jpg",
+              "path": "assets/store/watchx/screenshot-180a2eb70b05df08.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/99/d7/4299d774-90f1-6cb0-2fdd-1a55d7f703f4/3.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-206d33557810bad2.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/ed/26/8ced2671-9826-695e-a06d-ddb68b89b0ff/3.png/736x1600bb.jpg",
+              "path": "assets/store/watchx/screenshot-04e5f1013e714ced.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/b6/db/95b6dbb9-c73c-5366-9712-0d8639715cf9/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.48.16.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-4384f08915ff2a9d.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/49/e0/ea49e0a6-2d5a-aba5-894a-dea0f9c92a02/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.48.16.png/736x1600bb.jpg",
+              "path": "assets/store/watchx/screenshot-473375ee8f0922b0.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/57/33/705733dc-8d3e-e29e-9330-9fdef1268dd6/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.48.32.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-7ed4becabc71985a.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/4c/34/af4c346b-9253-6567-7372-6d796944f3c2/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.48.32.png/736x1600bb.jpg",
+              "path": "assets/store/watchx/screenshot-36a60ebeb051564d.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ff/2c/09ff2c07-6099-9629-40e6-e6f7c127962a/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.51.39.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-e62197afd498596f.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/53/f1/8753f113-1ca2-7f2a-153d-03c7272c176d/WatchX__Follow_Posts_on_Your_Watch.png/1600x1199bb.jpg",
+              "path": "assets/store/watchx/screenshot-81bdb6426eb0cd4d.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/03/cb/9303cb93-fb96-d1ec-3766-021762117c50/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.51.56.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-14100bae1b2e98e9.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/5b/f6/b65bf6f1-c60d-8092-6e12-7f6929d1294a/Check_the_Feed_on_Your_Wrist.png/1600x1199bb.jpg",
+              "path": "assets/store/watchx/screenshot-989e09bc265b2828.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/ed/cd/b0edcd47-8730-3f0b-c240-49a6e54420e8/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.51.50.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-199ca050234c30e4.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/63/dd/1163dd50-5ef6-d09e-bce8-e442e5e87098/Light_U002c_Dark_U002c_Your_Mode_Settings.png/1600x1199bb.jpg",
+              "path": "assets/store/watchx/screenshot-0c0536cf6433f4ba.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/89/1e/bc891ef0-297d-3110-8c82-ef6322848142/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.52.04.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-848ff8bda53a6601.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/a4/c0/a9a4c0dd-0657-55f3-f782-3e8d4f8b04b0/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-05-20_at_10.51.43.png/736x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-0b6c8459f25381d5.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/07/2a/2a072ad4-4184-ffdd-1f7d-ff4b54d9c369/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_-_2026-05-20_at_12.23.47.png/1200x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-e1e3b7838307b410.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/de/4f/e3de4f13-ba1d-71bf-8ea7-41f94f5a8cf9/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_-_2026-05-20_at_12.23.44.png/1200x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-87123fcb30a77b17.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/de/a6/02dea6a3-6db7-2892-3484-076e9852cc12/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_-_2026-05-20_at_12.23.55.png/1200x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-6424a320550929fe.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "unspecified",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/fa/a8/e5faa897-a2f4-23f1-215c-4e6413c0a989/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029__U002816GB_U0029_-_2026-05-20_at_12.23.25.png/1200x1600bb.jpg",
-              "path": "assets/store/watchx/screenshot-201bc073d0fa9187.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/c1/c1/87c1c16b-55d0-3731-ac0c-30425857fca8/Premium_Watch_Feed_Experience.png/1600x1199bb.jpg",
+              "path": "assets/store/watchx/screenshot-60eaaae2936d1148.webp"
             },
             {
               "kind": "screenshot",
               "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/cb/df/b3cbdfe5-bf70-0279-6383-bc0b2e85cdaa/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_11.04.35.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-e1f2b9cd9cfc63ad.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/f9/e7/8df9e787-00ce-79fe-e871-85297a82871b/Apple_Watch_Daily_News_Electric_Bus_Post.png/410x502bb.jpg",
+              "path": "assets/store/watchx/screenshot-5bbf2feb8f33729f.webp"
             },
             {
               "kind": "screenshot",
               "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/a3/be/e7a3be64-2c6d-65e5-e3c9-8d125bdb6a1c/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_12.16.46.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-7271504f34da1b85.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/a3/7a/30a37a07-263b-7631-9ca7-39c3e550d51b/Smartwatch_News_Feed_in_Dark_Mode.png/410x502bb.jpg",
+              "path": "assets/store/watchx/screenshot-fffb64432627f1f4.webp"
             },
             {
               "kind": "screenshot",
               "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/70/77/c9707770-2ad2-2902-5465-bc64786286b6/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_12.17.20.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-51da012437881e8d.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/51/e0/2251e0f7-1605-bbc2-3c1a-3c1775b32d4d/Travel_Diaries_Watch_Profile.png/410x502bb.jpg",
+              "path": "assets/store/watchx/screenshot-90aefa5c0f6d8def.webp"
             },
             {
               "kind": "screenshot",
               "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/36/b4/1136b49f-b782-066e-ccef-ae11e9a7c43d/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_11.04.42.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-3e1c09ef62697451.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/c7/ad/ecc7adb7-a987-03ac-5510-13225305b68a/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_12.17.07.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-32327e9e98485336.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/74/5f/73745f2e-22b7-cb61-6b9a-9d22fc919c52/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_11.05.07.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-2f5fe29edda4e6fa.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/2d/46/1e2d46e6-041a-3716-3f67-0b8d437b797f/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_12.16.15.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-8d7c88d80fae8562.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/b1/b2/3db1b252-0e8c-3342-5f41-cc15b465ee2f/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_12.15.40.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-9d8d5d45d346ebdd.webp"
-            },
-            {
-              "kind": "screenshot",
-              "device": "watch",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/9d/63/b79d638b-f664-2e46-9f73-e5bfed29dcb4/Simulator_Screenshot_-_Apple_Watch_Ultra_3__U002849mm_U0029_-_2026-05-20_at_12.17.59.png/422x514bb.jpg",
-              "path": "assets/store/watchx/screenshot-2e69cd19847f9d0a.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/cb/c6/ebcbc68a-733f-c405-3a13-76685a49accb/Whale_News_on_Smartwatch.png/410x502bb.jpg",
+              "path": "assets/store/watchx/screenshot-a74eb2fb781a7454.webp"
             },
             {
               "kind": "icon",
-              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/80/d8/6380d87d-5dfb-4699-bda0-39c67ab12c5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-              "path": "assets/store/watchx/icon-267cd9bc1feb76e2.webp"
+              "sourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/d4/4c/7cd44c6f-8195-3248-55ce-cc493d14a493/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+              "path": "assets/store/watchx/icon-3fddf1ba346111c6.webp"
             }
           ]
         },
@@ -2228,7 +2335,7 @@
           "updated": "2026-08-30T14:00:05.000Z",
           "released": "2026-05-18",
           "releaseNotes": "Welcome to WatchX\n\nThe ultimate X timeline experience is now on your wrist! In our very first release, you can: \n• Sync your favorite X accounts directly to your Wear OS smartwatch. \n• Read the latest tweets smoothly without ever touching your phone. \n• Manage your following list effortlessly from the mobile app. \n• Enjoy a premium, blazing-fast, and battery-friendly UI.\n\nThank you for joining us on day one! We'd love to hear your feedback. Don't forget to rate us!",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "fc0c6f16-ea23-4501-9b6e-52313c35ae87",
@@ -2253,7 +2360,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -2370,9 +2477,9 @@
           "updated": "2026-08-01T00:15:48Z",
           "released": "2025-04-23",
           "releaseNotes": "New Update Available!\n\nDiscover brand new areas\nUnlock and use new laser beam variants\nContinue your run after defeat by spending your coins\nVarious improvements and bug fixes\n\nThanks for playing!",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2444,7 +2551,7 @@
           "updated": "2026-07-25T14:31:23.000Z",
           "released": "2025-04-22",
           "releaseNotes": "New Update Available!\n\nDiscover brand new areas\nUnlock and use new laser beam variants\nContinue your run after defeat by spending your coins\nVarious improvements and bug fixes\n\nThanks for playing!",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "c8120358-d596-419b-95e7-e4a3270044d3",
@@ -2491,7 +2598,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -2602,9 +2709,9 @@
           "updated": "2026-07-31T12:58:29Z",
           "released": "2025-02-24",
           "releaseNotes": "Relive the classic pixel snake experience—now on your wrist!\n\nSnake Watch Classic brings the timeless fun of retro snake games to your Apple Watch. Navigate your snake, eat the dots, and grow—but be careful not to crash!",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2676,9 +2783,9 @@
           "updated": "2026-07-25T14:36:17.000Z",
           "released": "2025-06-26",
           "releaseNotes": "Initial release of Snake Watch Classic for Wear OS.\n\n- Classic retro-style Snake gameplay inspired by Nokia 3310\n- 9 difficulty levels with increasing speed\n- Touch and rotating bezel controls\n- 3 nostalgic color themes (Green, Blue, Grayscale)\n- Option to switch between square or round pixel snake styles\n- Haptic feedback for each pellet eaten\n- No ads, no data collection — 100% offline fun",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -2771,9 +2878,9 @@
           "updated": "2026-08-13T02:33:46Z",
           "released": "2025-08-04",
           "releaseNotes": "Fix some bugs and improve performance.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2863,14 +2970,25 @@
           "description": "Get ready to turn your smartwatch into a motion-activated gun simulator!\nFinger Strike GO is a fun and interactive prank game designed exclusively for Wear OS devices. Use your hand like a real weapon — just raise your wrist, make a finger gun gesture, and hear powerful gunshot sound effects instantly.\n\nWhether you're a fan of FPS games or just want to surprise your friends with a cool motion-based toy, Finger Strike GO brings action right to your wrist!\n\n🔫 How it works:\nOpen the app on your smartwatch\n\nHold your hand like a gun\n\nMove your wrist like you're firing\n\nHear realistic gun sounds with every motion!\n\nNo buttons, no ads, no clutter — just smooth and fun interaction!\n\n🎮 Inspired by shooter games, built for fun\nWhile this is not an official FPS app, it is inspired by the thrilling experience of shooter games. Finger Strike GO transforms that excitement into a wearable game experience without using any copyrighted content.\n\nEach sound effect is uniquely designed to mimic the energy of popular action games, making your watch the ultimate wearable toy.\n\n💥 Features\n✅ Realistic gunshot sound effects\n✅ Wrist motion detection\n✅ Haptic feedback (on supported watches)\n✅ No internet required\n✅ Lightweight and battery-friendly\n✅ Easy to use, great for quick fun\n✅ No personal data collected\n✅ Works offline — play anywhere\n\n🎯 Perfect for:\nFPS lovers\n\nGun sound fans\n\nMotion-based games enthusiasts\n\nAnyone who wants to prank their friends\n\nWatch gamers looking for short, fun interactions\n\nWear OS users who want unique games\n\n📱 Compatibility\nThis app is designed only for Wear OS smartwatches. It will not work on phones or tablets. Make sure your watch runs Wear OS and has motion sensors for the best experience.\n\n🔐 Privacy First\nWe respect your privacy. Finger Strike GO does not collect any personal data, display ads, or require any login. The app works fully offline and doesn’t connect to any third-party services.\n\n📢 Disclaimer\nThis is a fan-made parody-style game for entertainment purposes only. The game is intended for prank and entertainment use — no real weapons are involved.",
           "summary": "Finger gun simulator! Strike like a pro using just hand motion on smartwatch.",
           "rating": 2.25,
-          "ratingCount": 149,
+          "ratingCount": 151,
           "installs": "10,000+",
           "version": "1.3",
           "updated": "2026-07-25T14:43:06.000Z",
           "released": "2025-05-29",
           "releaseNotes": "What's New in This Version:\n\n🎮 Weapon Skins & Customization System\n- Unlock stunning weapon skins through our new case opening system\n- Collect and customize your favorite weapons with unique designs\n- Visual weapon showcase with detailed preview screens\n\n💎 Case Opening Feature\n- Purchase case keys to unlock premium weapon skins\n- Exciting animated case opening experience with random weapon drops\n- Collect rare and legendary weapon variants",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
+            {
+              "id": "e4daca16-d58d-40a1-a6c7-bcb876624b88",
+              "author": "Mohamed Salem",
+              "title": "",
+              "text": "Waw",
+              "rating": 5,
+              "date": "2026-10-18T14:38:54.601Z",
+              "url": "https://play.google.com/store/apps/details?id=com.kolapps.fingerstrikego&reviewId=e4daca16-d58d-40a1-a6c7-bcb876624b88",
+              "country": "us",
+              "language": "en"
+            },
             {
               "id": "3964671f-b823-4ee3-8bd1-ffa172f2bd54",
               "author": "Leetscywatch",
@@ -3092,7 +3210,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -3209,7 +3327,7 @@
           "updated": "2026-07-26T10:45:28.000Z",
           "released": "2026-06-15",
           "releaseNotes": "Added support for 12-hour (AM/PM) time format.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "4e361703-1f2e-410c-9f93-55e68629dcbb",
@@ -3223,7 +3341,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
@@ -3340,7 +3458,7 @@
           "updated": "2026-05-19T08:27:48.000Z",
           "released": "2023-11-12",
           "releaseNotes": "What's new\nWatchemon is now a step tracker with rewards: set your daily goal, walk to reach it, and earn pokéballs to catch creatures. One starter gift to begin, then more rewards as you hit your step goals. Simpler, focused experience.",
-          "fetchedAt": "2026-10-19T09:01:33.840Z",
+          "fetchedAt": "2026-10-19T20:37:18.875Z",
           "reviews": [
             {
               "id": "9c728ba4-c84d-412f-acf6-412c2c9f9c60",
@@ -3354,7 +3472,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-19T09:01:33.840Z",
+          "reviewsFetchedAt": "2026-10-19T20:37:18.875Z",
           "media": [
             {
               "kind": "icon",
