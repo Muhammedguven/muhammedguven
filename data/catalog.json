@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T09:44:52.586Z",
+  "generatedAt": "2026-10-31T19:21:34.485Z",
   "apps": [
     {
       "slug": "vocards",
@@ -30,9 +30,9 @@
           "updated": "2026-07-26T18:45:36Z",
           "released": "2026-01-07",
           "releaseNotes": "Introducing Match Mode!\n\nLearn faster by matching words with their meanings through our brand-new interactive game mode.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -122,9 +122,9 @@
           "updated": "2026-07-25T14:52:42.000Z",
           "released": "2025-12-29",
           "releaseNotes": "Introducing Match Mode! 🎉\n\nLearn faster by matching words with their meanings through our brand-new interactive game mode.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -201,9 +201,131 @@
           "updated": "2026-10-03T16:07:39Z",
           "released": "2024-11-20",
           "releaseNotes": "- Tüm sınavlar için puan ve tahmini sıralama hesaplama özelliği eklendi.\n- Artık daha önce kaydettiğiniz sınavlar için de puan ve sıralama hesaplaması yapabilirsiniz.\n- Performans iyileştirmeleri ve hata düzeltmeleri.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
-          "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
+          "reviews": [
+            {
+              "id": "13432494695",
+              "author": "lux017",
+              "title": "beklentinin altında",
+              "text": "özellikle öğrencilere yönelik bir uygulama neden sağlaması gereken hizmet için satın alım içeriyor? hayal kırıklığı",
+              "rating": 2,
+              "date": "2025-11-23T09:33:27-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "13076423635",
+              "author": "Av.kıymet",
+              "title": "Muazzam devamı gelsin...",
+              "text": "Süper bir takip uygulaması olmuş ellerine sağlık. İhtiyaçtan doğmuş belli :) Yalnız bu istatistiklerin pdf şeklinde dışa aktarımı olursa muhteşem olacaktır. \nBir de günlük soru takibi uygulaması bekliyorum senden...yaparsan fevkalade our. :) günlük şu kadar soru, haftalık şu kadar, aylık şu kadar soru doğrusu yanlışı bu kadar dese yeter ;)  umudum var kardeş bekliyorum :)",
+              "rating": 5,
+              "date": "2025-08-29T17:28:12-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "12025934395",
+              "author": "efedmr17",
+              "title": "Gayet başarılı",
+              "text": "deneme hedeflerınızı ve netlerınızı kolayca gırebiliyorsunuz",
+              "rating": 5,
+              "date": "2024-12-04T12:44:55-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "12009676355",
+              "author": "Ayşenur Bayraktar",
+              "title": "Kullanışlı",
+              "text": "Yaptığım denemeleri takip etmek istiyordum. Birkaç uygulama indirmiştim ama en çok bu işime yaradı. Teşekkürler",
+              "rating": 5,
+              "date": "2024-11-30T07:55:43-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "12001404805",
+              "author": "pelingul",
+              "title": "Oldukça verimli",
+              "text": "Böyle bir uygulamaya ihtiyacım vardı arayüzünü çok beğendim",
+              "rating": 5,
+              "date": "2024-11-28T05:43:35-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11986257908",
+              "author": "ozaanj",
+              "title": "5 PUAN DEĞİL 5 BİN PUANLIK UYGULAMA.",
+              "text": "Deneme için hedeflerimi belirledim haftaya hedeflerime ulaşmayı planlıyorum inşallah olur uygulama çok iyi hocam elinize sağlık,kolay gelsin.",
+              "rating": 5,
+              "date": "2024-11-24T04:04:23-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11979570373",
+              "author": "danielcimbom",
+              "title": "Harika ve Faydalı 🤩🤩🤩",
+              "text": "“Deneme sınavlarınızı düzenli bir şekilde takip etmek ve başarı grafiğinizi gözlemlemek için mükemmel bir uygulama! Kullanıcı dostu arayüzü sayesinde sınav sonuçlarınızı kolayca kaydedebilir, analiz edebilir ve gelişiminizi adım adım izleyebilirsiniz. Hem öğrenciler hem de veliler için büyük bir kolaylık sağlıyor. Başarıya giden yolda disiplinli bir rehber arayanlara şiddetle tavsiye ederim!”",
+              "rating": 5,
+              "date": "2024-11-22T10:17:57-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11975525578",
+              "author": "Meorbag",
+              "title": "Harika uygulama",
+              "text": "Çok iyi uygulama, netlerimi takip etmeme ve arttırmama çok yardımcı oldu",
+              "rating": 5,
+              "date": "2024-11-21T08:36:24-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11975348436",
+              "author": "Biri yardım etsin bana",
+              "title": "Kullanışlı",
+              "text": "Harika , umarım yakında sorular eklenir tadından yenmez.",
+              "rating": 5,
+              "date": "2024-11-21T07:40:48-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11975312587",
+              "author": "SinyorBoss",
+              "title": "Başarılı",
+              "text": "Kendinize çalışma takvimi oluşturmak için ideal bi uygulama",
+              "rating": 5,
+              "date": "2024-11-21T07:29:27-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            },
+            {
+              "id": "11974175138",
+              "author": "YigitK06",
+              "title": "Mükemmel!",
+              "text": "KPSS’ye hazırlanıyorum, bu uygulama en büyük yardımcılarımdan biri oldu. Geliştiricinin ellerine sağlık!",
+              "rating": 5,
+              "date": "2024-11-21T00:44:08-07:00",
+              "url": "https://apps.apple.com/tr/app/yks-kpss-deneme-takip-testy/id6738379731",
+              "country": "tr",
+              "language": "tr"
+            }
+          ],
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -293,7 +415,7 @@
           "updated": "2026-10-02T21:35:40.000Z",
           "released": "2024-11-17",
           "releaseNotes": "🎉 Tüm sınavlar için puan ve tahmini sıralama hesaplama özelliği eklendi.\n\n📚 Artık daha önce kaydettiğiniz sınavlar için de puan ve sıralama hesaplaması yapabilirsiniz.\n\n🚀 Performans iyileştirmeleri ve hata düzeltmeleri.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "23c237de-9d08-4412-9273-e4a3df5c258b",
@@ -835,7 +957,7 @@
               "language": "tr"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -952,9 +1074,9 @@
           "updated": "2026-08-01T05:16:22Z",
           "released": "2026-04-08",
           "releaseNotes": "- Added new stamp styles.\n- Introduced stamp filters.\n- Added the ability to set a background image from the gallery.\nImplemented performance improvements.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1038,7 +1160,7 @@
           "updated": "2026-07-25T14:59:00.000Z",
           "released": "2026-03-29",
           "releaseNotes": "- Added new stamp styles.\n- Introduced stamp filters.\n- Added the ability to set a background image from the gallery.\nImplemented performance improvements.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "731c5eff-dc76-4606-8d92-be9cb47a0e28",
@@ -1063,7 +1185,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -1162,9 +1284,9 @@
           "updated": "2026-10-09T08:27:35Z",
           "released": "2026-10-09",
           "releaseNotes": "",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1260,9 +1382,9 @@
           "updated": "2026-10-02T22:12:14.000Z",
           "released": "2026-09-27",
           "releaseNotes": "Sketch Watch turns your Wear OS watch into a simple drawing and note-taking canvas.\n\n• Draw and sketch directly on your watch  \n• Choose different colors and brush sizes  \n• Use the eraser and undo tools  \n• Automatically save your sketches  \n• View, rename, and delete saved sketches  \n• Export and share your creations\n\nStart sketching right from your wrist!",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -1361,9 +1483,54 @@
           "updated": "2026-07-16T23:22:19Z",
           "released": "2025-02-12",
           "releaseNotes": "Fix some bugs and improve performance",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
-          "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
+          "reviews": [
+            {
+              "id": "13710936436",
+              "author": "Justin Adkins",
+              "title": "Do not buy this app (scam) (updated!)",
+              "text": "You pay $6.99 and it’s actually made with good quality and you think, oh ok I guess that’s why. Except the fact they don’t tell you that alien force, omniverse, and villains are behind a pay wall. Alien force is $2.99, villains are $4.99. Dude, we paid $6 for the freaking app, don’t be greedy. I wanted to say that for the aliens I did use, it was great. Except the entire, after one alien, you have to restart the entire thing. Really should just be able to change into aliens non stop. If you actually do care about your product and I’m not sure because I’ve seen you comment on what little reviews are here, I’d take down the pay walls and fix the issue of having to restart it after every alien. If you absolutely and I mean absolutely! Have to need more money from us, try some sort of alien dlc, like aliens from different universes Ben can turn into like goku or Superman, make your app stand out, but I would only suggest making that dlc 99 cents. (Update: they responded that they are working to fix the restart mechanic so that’s a great start. However for the other items their comment was very around the bush when it came to the micro transactions which gives me little hope of them making that cheaper or completely removing them. I suggest people stand clear for how the app stands right now this app is just a $7 button and there are other apps that do it better, cheaper, or even for free.)",
+              "rating": 1,
+              "date": "2026-02-03T22:37:21-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            },
+            {
+              "id": "13003166922",
+              "author": "Moises Germain",
+              "title": "Version of Apple Watch",
+              "text": "Can u make it where the series 3 gets it I bought it I didn’t know I couldn’t use it",
+              "rating": 5,
+              "date": "2025-08-11T07:47:16-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            },
+            {
+              "id": "12819214151",
+              "author": "Neillerr",
+              "title": "Kid loves this",
+              "text": "He does wish that it would go back to green screen after transforming back from red screen. Instead of having to hit start on menu page each time.",
+              "rating": 4,
+              "date": "2025-06-26T05:19:35-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            },
+            {
+              "id": "12586026878",
+              "author": "Dillan43",
+              "title": "Would not recommend",
+              "text": "I wish it was more accurate to the show and I also don’t like that you have to swipe the screen instead of using the crown if it was more accurate to the show and had modes like master control and cheaper it would be great",
+              "rating": 2,
+              "date": "2025-04-25T16:05:10-07:00",
+              "url": "https://apps.apple.com/us/app/omnitrix-simulator-pro/id6741732766",
+              "country": "us",
+              "language": "en"
+            }
+          ],
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1465,7 +1632,7 @@
           "updated": "2026-07-25T14:23:32.000Z",
           "released": "2022-12-31",
           "releaseNotes": "NEW FEATURES:\n\nSECRET PATTERN SYSTEM\n- Hidden easter egg activation: Long press any hero → Pattern mode activated\n- Enter the secret code: Left-Left-Right-Right-Left-Left using crown rotation or swipe\n- Successfully complete pattern → Auto hero selection with epic transformation\n\nREAL LIFE ALIENS\n- Real life aliens transformations with AI",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "97bdc788-ca01-403d-b789-2fd45cad8728",
@@ -1512,7 +1679,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -1623,9 +1790,9 @@
           "updated": "2026-08-22T03:51:26Z",
           "released": "2025-06-18",
           "releaseNotes": "Performance improvements",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1709,9 +1876,9 @@
           "updated": "2026-07-25T15:21:08.000Z",
           "released": "2025-06-11",
           "releaseNotes": "NEW FEATURES:\n- Real Super heroes feature enabled!\n- Hidden easter egg activation: Long press any hero → Pattern mode activated\n- Enter the secret code: Left-Left-Right-Right-Left-Left-Right-Right using crown rotation or swipe\n- Successfully complete pattern → Auto hero selection with epic transformation",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -1828,9 +1995,9 @@
           "updated": "2026-07-31T21:34:55Z",
           "released": "2025-06-04",
           "releaseNotes": "Performance improvements",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -1938,7 +2105,7 @@
           "updated": "2026-07-25T15:11:24.000Z",
           "released": "2025-05-01",
           "releaseNotes": "NEW FEATURES:\n- Real Super heroes feature enabled!\n- Hidden easter egg activation: Long press any hero → Pattern mode activated\n- Enter the secret code: Left-Left-Right-Right-Left-Left-Right-Right using crown rotation or swipe\n- Successfully complete pattern → Auto hero selection with epic transformation",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "bc62736d-3ad8-4b29-bf86-d342431265f8",
@@ -1952,7 +2119,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -2099,9 +2266,9 @@
           "updated": "2026-10-19T10:25:12Z",
           "released": "2026-09-18",
           "releaseNotes": "Fix some bugs and improve performance.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2203,7 +2370,7 @@
           "updated": "2026-08-30T14:00:05.000Z",
           "released": "2026-05-18",
           "releaseNotes": "Welcome to WatchX\n\nThe ultimate X timeline experience is now on your wrist! In our very first release, you can: \n• Sync your favorite X accounts directly to your Wear OS smartwatch. \n• Read the latest tweets smoothly without ever touching your phone. \n• Manage your following list effortlessly from the mobile app. \n• Enjoy a premium, blazing-fast, and battery-friendly UI.\n\nThank you for joining us on day one! We'd love to hear your feedback. Don't forget to rate us!",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "ab02e493-27d8-4476-b440-2699cb9af139",
@@ -2239,7 +2406,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -2356,9 +2523,9 @@
           "updated": "2026-08-01T00:15:48Z",
           "released": "2025-04-23",
           "releaseNotes": "New Update Available!\n\nDiscover brand new areas\nUnlock and use new laser beam variants\nContinue your run after defeat by spending your coins\nVarious improvements and bug fixes\n\nThanks for playing!",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2430,7 +2597,7 @@
           "updated": "2026-07-25T14:31:23.000Z",
           "released": "2025-04-22",
           "releaseNotes": "New Update Available!\n\nDiscover brand new areas\nUnlock and use new laser beam variants\nContinue your run after defeat by spending your coins\nVarious improvements and bug fixes\n\nThanks for playing!",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "c8120358-d596-419b-95e7-e4a3270044d3",
@@ -2477,7 +2644,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -2588,9 +2755,9 @@
           "updated": "2026-07-31T12:58:29Z",
           "released": "2025-02-24",
           "releaseNotes": "Relive the classic pixel snake experience—now on your wrist!\n\nSnake Watch Classic brings the timeless fun of retro snake games to your Apple Watch. Navigate your snake, eat the dots, and grow—but be careful not to crash!",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2662,9 +2829,9 @@
           "updated": "2026-07-25T14:36:17.000Z",
           "released": "2025-06-26",
           "releaseNotes": "Initial release of Snake Watch Classic for Wear OS.\n\n- Classic retro-style Snake gameplay inspired by Nokia 3310\n- 9 difficulty levels with increasing speed\n- Touch and rotating bezel controls\n- 3 nostalgic color themes (Green, Blue, Grayscale)\n- Option to switch between square or round pixel snake styles\n- Haptic feedback for each pellet eaten\n- No ads, no data collection — 100% offline fun",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -2757,9 +2924,9 @@
           "updated": "2026-10-27T22:54:13Z",
           "released": "2025-08-04",
           "releaseNotes": "Fix some bugs and improve performance.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "screenshot",
@@ -2851,11 +3018,11 @@
           "rating": 2.25,
           "ratingCount": 161,
           "installs": "10,000+",
-          "version": "1.3",
-          "updated": "2026-07-25T14:43:06.000Z",
+          "version": "3.2",
+          "updated": "2026-10-26T16:28:06.000Z",
           "released": "2025-05-29",
           "releaseNotes": "What's New in This Version:\n\n🎮 Weapon Skins & Customization System\n- Unlock stunning weapon skins through our new case opening system\n- Collect and customize your favorite weapons with unique designs\n- Visual weapon showcase with detailed preview screens\n\n💎 Case Opening Feature\n- Purchase case keys to unlock premium weapon skins\n- Exciting animated case opening experience with random weapon drops\n- Collect rare and legendary weapon variants",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "38195af7-07c5-4316-86d8-84c427a19dcd",
@@ -3100,7 +3267,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -3109,80 +3276,80 @@
             },
             {
               "kind": "banner",
-              "sourceUrl": "https://play-lh.googleusercontent.com/-gZ0FzcUDzyRIV0f6SFAj8DC1FpLt1tWB38d6gRW2vRld3A-eN7M74QL_voLJ1OcxxbCl2Pnk58c8r-ub0Y1Mw=w1024",
-              "path": "assets/store/finger-strike-go/banner-084cea18ef1168eb.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/g_h77rT2Pi79AjruTuUIhmDhKZNjgw3Eo-33t92M6JdzBrIsiBaj0ye1Wz0OozDE_alhA46nWtXcVBXDQCLEfQ=w1024",
+              "path": "assets/store/finger-strike-go/banner-c17e095ba51b7980.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/E3zywDU-XJPvTyuRQjb2_wN-4g031PRtcYPNIdrdWFgARcbaVHP8nMFVJR9pXGbKXGTY0JpKJtrxuv7RftxEIw=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-fd8b961929115f5b.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/AcmfBqhJ4vritlP57HYGYhiudo3jDAOU6x_wuil30X7DC47ScMc-grw5dwN-BbXlHQTVTaKGiwweJXO_uObVv30=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-618a7253c8e8a000.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/PAp1OHJpFHeU6YXJM1on-JW1NYh_slvrNH48UB_kMM5iyBIlKl6OowEfqyoAK9CpFT6ZXZLNIC3nh-DSVhDo=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-55325a364d2cb39b.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/4P6EtlkBm8bjMTaooiENNOLV3a3vlyyxwRbfbqRoJVDjTCdGLdZ8IEfGF8vIr8fDs07CfF1yN7cTE2DcEP1xjQ=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-aacca5b24aeb1fd4.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/EP8hZcOvN3NSDPrgUxf6XpCpI6v9SS6KR3t7RdnTeXAjYAu_UNGJEJ608It708AGGZxfCkIYAAnaN_vSrG0R-g=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-65f5d1f5fbcfb8b1.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/RQ_YZD6rYAKZgnofGVLwVy-RtLcquHV9OH3LgGedfk00FFSQ3MxIfM0Rl06CJiXy8YD9xt8avaSlD-hrtqdzlw=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-f71ca58668503c70.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/cbL_NkCty3ZGRkVJSwIwfnLBUf3s29cXslX05xg2m-_a-EIewODT_qxT5PmME2YmQkhHUws3BZxr6pArLaNkV6c=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-9ac273b934ff837f.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/9IFS8dukuKO_OvG5bn96OOWROg9ecgf1Ssv1W1Nz5o3zSKLqYUrsJNdmcnkRaq4-yfkzZzH9n8rta1VnPoIH=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-f5a6a166771be6e0.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/ivz-J1Qrx3DkgRktr44ZOP2o8KVAR-3pxFw12XQ1wo0okzfkGx8qKOv9MbpwhHWM9RBl4RX_YCXg-JlK7TUi=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-ff8c5fd1013d86bd.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/C3YTGCVhrB0i_a30bsIV5mIHL0hw7-ZA0F-Gy0rk-KZx6TTDwMD6U0fVYItbaPT9kQqq8zkD9x7dwmT66qgq=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-0596eb702a9be94c.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/_lpZs2R6eaFaPKh51fybYRKw7tJX8RLtz_sY7-oBy0XjgFKh2rlxMg1mzFQeejvdi4ZPaBubOMbRsMiDxA6RVA=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-913ea683ca0a0015.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/-EnuepD09FKO4eV_DV3KXIQfi_eMvRHGg6ORAy4Fx_mcf6Dye5M-0scAfRvou69hIL6LKgX_U1n9vSqjHqjU-g=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-3534095195496c4c.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/Z_xlcC-qqCSffltpC1TR7gFpfETT3hMCy_oX5QpEyS9NlkqusJxdZ0Zomxmh5lE43z1ZVAHeGY2ZwvThpU3c7w=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-8a6217bfc54d5aff.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/28snFhJK0ji1EKYPNUBpfAVY7ekbPms19Ngc7oDfqaX6j-dVD0BGq_KGNs9pSRDNTCxpWST2EnLGxylyqHhc_g=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-87af47b3ea2df8d1.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/0yDO7tHVkEF67NhCxdQemdbmllyTgMIRpZ4HoJ7tCk_g47h2eUBBzHQlHNTSpcyFAVUYDVJapUDDfP0yzZZ1mw=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-b1e7faa568cd69fa.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/zgcsngty1AdaxH-0c1Zv1qib22zdSNUOV6aO04G2xVWP0exgJ01J2gKHZiKhOqmj7mAWlKMxZAZ7LiqgIsggUQ=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-82bb31e8378400db.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/u7QZiVANasWDalFfG1bRyY_D_tFlH8_YNJaeeoH_Qnx37TylainznJdFpyFU-gfvOfZJb1YD330MhU38sMka_A=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-418c50924298cc46.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/hpGAHcioNjBTyDkuFSk741KHwn9g9b-6rng1Z1nTGBhI3jYppyGyoulXQvv22xtvpaFkz9TPfE3YcJersXzrVQ=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-ab0e67a91c1fcf5f.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/pvPKTDL3uNnjnNSmDi_XWqnDGhQElwq6nNxYFvlY3BjSDFCEM5rDdU9t2K7dfB2_SWz817tcNWcb8E1GNO2zjA=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-db36345a4f3f4fad.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/vUTreGqqSf4gPHiZvIov-lWNMAAzthZKtyQqPbUiepeRfRABp0sq3UIzxSYO1XEIdTb0548NROPrmxepIvJTnQ=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-67e96803343168ca.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/8Sh-pAi6zM3zoqBkfTdSygmYLN7VdzFerLO2fAgNLALRtolhVlKrQmjMfMe86jwdrF0_Y05KvSd30cmSs_mitog=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-c300d4f674c4c25d.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/189vVIoFfX-CI72THB911rRj4k9MhNsUKmH3qtk066AyZC1diJG3-B14_5p8zJYiTqGsFSyu8Td5kmxAzu-eXtU=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-f585531491be14eb.webp"
             },
             {
               "kind": "screenshot",
               "device": "unspecified",
-              "sourceUrl": "https://play-lh.googleusercontent.com/ltiWjg5euMdgwJ5H37JcVcaKCu-4Cyh3jRXHjZXkXWlPPzh1MTcft6zwZO4o01oLsEkuuAhWvBFJG-VPFNhg=w1200",
-              "path": "assets/store/finger-strike-go/screenshot-a112e10eb1a2c14f.webp"
+              "sourceUrl": "https://play-lh.googleusercontent.com/GlYnc0O6eYkDx77yLTxCrwdjAksTq7wAmhfoQ8xzDdXqrE72i24StXzb6BtkGlJ1jNwhVJC4p07-3y5DF_F3rw=w1200",
+              "path": "assets/store/finger-strike-go/screenshot-8780db86cf74adaf.webp"
             }
           ]
         }
@@ -3217,7 +3384,7 @@
           "updated": "2026-07-26T10:45:28.000Z",
           "released": "2026-06-15",
           "releaseNotes": "Added support for 12-hour (AM/PM) time format.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "4e361703-1f2e-410c-9f93-55e68629dcbb",
@@ -3231,7 +3398,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
@@ -3348,7 +3515,7 @@
           "updated": "2026-05-19T08:27:48.000Z",
           "released": "2023-11-12",
           "releaseNotes": "What's new\nWatchemon is now a step tracker with rewards: set your daily goal, walk to reach it, and earn pokéballs to catch creatures. One starter gift to begin, then more rewards as you hit your step goals. Simpler, focused experience.",
-          "fetchedAt": "2026-10-31T09:44:52.586Z",
+          "fetchedAt": "2026-10-31T19:21:34.485Z",
           "reviews": [
             {
               "id": "9c728ba4-c84d-412f-acf6-412c2c9f9c60",
@@ -3362,7 +3529,7 @@
               "language": "en"
             }
           ],
-          "reviewsFetchedAt": "2026-10-31T09:44:52.586Z",
+          "reviewsFetchedAt": "2026-10-31T19:21:34.485Z",
           "media": [
             {
               "kind": "icon",
